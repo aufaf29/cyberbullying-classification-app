@@ -1,2 +1,19 @@
-# cyberbullying-classification-app
-Cyberbullying Classification Client for The NextDEV Final Assignment
+# cyberbullying-classification
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
